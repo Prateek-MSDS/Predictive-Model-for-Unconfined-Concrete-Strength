@@ -1,1 +1,1 @@
-# Predictive-Model-for-Unconfined-Concrete-Strentgh
+# Predictive-Model-for-Unconfined-Concrete-Strength
