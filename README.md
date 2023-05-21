@@ -15,4 +15,5 @@ _DCE_predictive_model.pkl:_ This is the final model used for prediction.
 _Predict_Unconfined_Concrete_Strength.ipynb:_ This notebook predicts the strength based on the given 11 variables.
 
 
-#Contact Information:# pkakkar@seattleu.edu, rputta@seattleu.edu and xli@seattleu.edu
+
+Contact Information: pkakkar@seattleu.edu, rputta@seattleu.edu and xli@seattleu.edu
