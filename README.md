@@ -6,13 +6,13 @@ This project aims to improve data management in the construction industry by pro
 
 ### Repo Information:
 
-DCE_Reports_Scraper.ipynb: This notebook reads the information from an Excel file containing the paths of the PDF reports to be scraped and exports three clean and structured Excel files.
+_DCE_Reports_Scraper.ipynb:_ This notebook reads the information from an Excel file containing the paths of the PDF reports to be scraped and exports three clean and structured Excel files.
 
-Prediction_Model_Generator.ipynb: This notebook showcases how the prediction model was built for this problem and evaluates its performance.
+_Prediction_Model_Generator.ipynb:_ This notebook showcases how the prediction model was built for this problem and evaluates its performance.
 
-DCE_predictive_model.pkl: This is the final model used for prediction.
+_DCE_predictive_model.pkl:_ This is the final model used for prediction.
 
-Predict_Unconfined_Concrete_Strength.ipynb: This notebook predicts the strength based on the given 11 variables.
+_Predict_Unconfined_Concrete_Strength.ipynb:_ This notebook predicts the strength based on the given 11 variables.
 
 
-Contact Information: pkakkar@seattleu.edu, rputta@seattleu.edu and xli@seattleu.edu
+#Contact Information:# pkakkar@seattleu.edu, rputta@seattleu.edu and xli@seattleu.edu
