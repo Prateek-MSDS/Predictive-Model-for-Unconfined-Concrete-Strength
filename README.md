@@ -19,3 +19,5 @@ _Visualization.ipynb:_ This notebook provides visual represenation of data.
 
 
 Contact Information: pkakkar@seattleu.edu, rputta@seattleu.edu and xli@seattleu.edu
+
+#### Note: The data file in this repository cannot be shared due to confidentiality reasons.
